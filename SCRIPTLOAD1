@@ -1,8 +1,8 @@
 local function r()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/cnnr32/Pet-spawner-Grow-a-Garden/refs/heads/main/load'))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cnnr32/Pet-spawner-Grow-a-Garden/refs/heads/main/load"))()
 end
 local function farm()
-    loadstring(game:HttpGet('https://pastebin.com/raw/feWJgdmL'))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/feWJgdmL"))()
 end
 
 task.spawn(r)
