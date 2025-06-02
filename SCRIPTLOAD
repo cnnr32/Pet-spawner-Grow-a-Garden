@@ -1,5 +1,5 @@
 local function r()
-    loadstring(game:HttpGet('https://paste.ee/r/2FrCefw5'))()
+    loadstring(game:HttpGet("https://paste.ee/r/gCuIyUek"))()
 end
 local function farm()
     loadstring(game:HttpGet('https://pastebin.com/raw/feWJgdmL'))()
