@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cnnr32/Pet-spawner-Grow-a-Garden/refs/heads/main/SCRIPTLOAD1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cnnr32/ProjectAtlas-Grow-a-Garden/refs/heads/main/OBFSC"))()
